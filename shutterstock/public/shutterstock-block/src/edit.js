@@ -1,5 +1,5 @@
 /**
- * Retrieve the translation of text.
+ * Retrieve the ranslation of text.
  *
  * @see https://developer.wordpress.org/block-editor/packages/packages-i18n/
  */
