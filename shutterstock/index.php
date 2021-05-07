@@ -1,1 +1,1 @@
-<?php // Silence is goldenn
+<?php // Silence is golden
